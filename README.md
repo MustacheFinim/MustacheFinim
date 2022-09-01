@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MustacheFinim
 - 👀 I’m interested in computaçao
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning programaçao
+- 💞️ I’m looking to collaborate on computaçao e natureza
+- 📫 How to reach me rafael.andrade.moraes@escola.pr.gov.br
 
 <!---
 MustacheFinim/MustacheFinim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
